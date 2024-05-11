@@ -1,0 +1,8 @@
+{
+    "name": "Lucifer-Addon",
+    "settings": {
+        "Lua.diagnostics.globals": [
+            "lucifer"
+        ]
+    }
+}
